@@ -1,35 +1,35 @@
-# Calculadora Simples
+# Simple Calculator
 
 ![Header](./Header.png)
 
-## Descrição
-A Calculadora Simples é uma aplicação desenvolvida para realizar operações matemáticas básicas, como adição, subtração, multiplicação, divisão, potência, porcentagem e raiz quadrada. Com uma interface amigável, permite que os usuários ingressem dois números e escolham a operação desejada para obter o resultado instantaneamente.
+## Description
+The Simple Calculator is an application designed to perform basic mathematical operations such as addition, subtraction, multiplication, division, exponentiation, percentage, and square root. With a user-friendly interface, it allows users to input two numbers and choose the desired operation to instantly obtain the result.
 
-## Funcionalidades
-- Adição (+)
-- Subtração (-)
-- Multiplicação (*)
-- Divisão (/)
-- Potência (^)
-- Porcentagem (%)
-- Raiz Quadrada (√)
+## Features
+- Addition (+)
+- Subtraction (-)
+- Multiplication (*)
+- Division (/)
+- Exponentiation (^)
+- Percentage (%)
+- Square Root (√)
 
-## Como Usar
-1. **Inserir Números:** Digite o primeiro número na primeira caixa de entrada e o segundo número na segunda caixa de entrada.
-2. **Selecionar Operação:** Escolha a operação desejada entre adição (+), subtração (-), multiplicação (*), divisão (/), potência (^), porcentagem (%) ou raiz quadrada (√).
-3. **Pressionar "Calcular":** Após inserir os números e selecionar a operação, pressione o botão "Calcular".
-4. **Visualizar Resultado:** O resultado da operação será exibido na tela.
+## How to Use
+1. **Enter Numbers:** Type the first number into the first input box and the second number into the second input box.
+2. **Select Operation:** Choose the desired operation among addition (+), subtraction (-), multiplication (*), division (/), exponentiation (^), percentage (%), or square root (√).
+3. **Press "Calculate":** After entering the numbers and selecting the operation, press the "Calculate" button.
+4. **View Result:** The result of the operation will be displayed on the screen.
 
-## Como Instalar
-1. **Baixar o APK:** Baixe o arquivo APK do aplicativo em [link para download].
-2. **Permissões:** Certifique-se de permitir a instalação de aplicativos de fontes desconhecidas nas configurações do seu dispositivo.
-3. **Instalar:** Abra o arquivo APK baixado e siga as instruções na tela para concluir a instalação.
+## How to Install
+1. **Download the APK:** Download the APK file of the app from [download link].
+2. **Permissions:** Make sure to allow installation of apps from unknown sources in your device settings.
+3. **Install:** Open the downloaded APK file and follow the on-screen instructions to complete the installation.
 
-## Tecnologias Utilizadas
+## Technologies Used
 - MIT App Inventor
 
-## Contribuição e Feedback
-Se você tiver ideias para melhorar este aplicativo ou encontrar algum problema, sinta-se à vontade para contribuir ou fornecer feedback. 
+## Contribution and Feedback
+If you have any ideas to improve this app or encounter any issues, feel free to contribute or provide feedback.
 
-## Autor
-Desenvolvido por Julia. 
+## Author
+Developed by Julia.
