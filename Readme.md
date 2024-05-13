@@ -1,5 +1,7 @@
 # Calculadora Simples
 
+![Header](./Header.png)
+
 ## Descrição
 A Calculadora Simples é uma aplicação desenvolvida para realizar operações matemáticas básicas, como adição, subtração, multiplicação, divisão, potência, porcentagem e raiz quadrada. Com uma interface amigável, permite que os usuários ingressem dois números e escolham a operação desejada para obter o resultado instantaneamente.
 
