@@ -1,6 +1,8 @@
 # Simple Calculator
 
-![Header](./Header.png)
+<div align="center">
+  <img src="./ReadmeHeader.png" alt="Readme Header" width="800"/>
+</div>
 
 ## Description
 The Simple Calculator is an application designed to perform basic mathematical operations such as addition, subtraction, multiplication, division, exponentiation, percentage, and square root. With a user-friendly interface, it allows users to input two numbers and choose the desired operation to instantly obtain the result.
@@ -24,6 +26,11 @@ The Simple Calculator is an application designed to perform basic mathematical o
 1. **Download the APK:** Download the APK file of the app from [download link].
 2. **Permissions:** Make sure to allow installation of apps from unknown sources in your device settings.
 3. **Install:** Open the downloaded APK file and follow the on-screen instructions to complete the installation.
+
+## Operation Video
+<div align="center">
+  <img src="./OperationVideo.gif" alt="Operation Video" width="800"/>
+</div>
 
 ## Technologies Used
 - MIT App Inventor
